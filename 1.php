@@ -18,7 +18,7 @@
     <!-- place navbar here -->
   </header>
   <main>
-<h1>Test Heading</h1>
+
   </main>
   <footer>
     <!-- place footer here -->
